@@ -101,7 +101,7 @@ img, video, audio {
   background: #ccc;
 }
 
-.clearfix after{
+.clearfix after {
   content: ".";
   display: block;
   clear: both;
