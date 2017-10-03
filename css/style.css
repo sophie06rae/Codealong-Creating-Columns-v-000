@@ -130,3 +130,13 @@ section {
   padding: 20px;
   margin-bottom: 20px;
 }
+
+/*SOCIAL*/
+
+#social {
+  postion: fixed;
+  top: 20px
+  right: 20px;
+  width: 40px;
+  z-index: 1;
+}
