@@ -104,7 +104,7 @@ figcaption {
   line-height: 0;
 }
 
-[class*="col-"] {
+[class *="col-"] {
   margin-left: 2%
 }
 
