@@ -82,7 +82,7 @@ figcaption {
 .col-1{
   float: left;
   width: 32%;
-  background: #ccc;  
+  background: #ccc;
 }
 
 .col-2{
@@ -93,4 +93,12 @@ figcaption {
 
 .col-3 {
   background: #ccc;
+}
+
+[class*="col-"] {
+  margin-left: 2%
+}
+
+.first {
+  margin-left: 0%
 }
